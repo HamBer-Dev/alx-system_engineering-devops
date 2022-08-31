@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod u+x 1-listit
-chmod u+x ls
+ls
